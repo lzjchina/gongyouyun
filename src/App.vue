@@ -28,6 +28,7 @@ body,html,div,ul,li{
   width: 100vw;
   height: 100vh;
   overflow: hidden;
+  background: #000;
   /*margin-top: 60px;*/
 }
 </style>
